@@ -1,4 +1,5 @@
 from itertools import combinations_with_replacement
+
 ### n = inteiro; // valor que deseja fazer as somas para encontrar o menor vetor
 ### valores = [x,x,x] // conjunto de números para compor a soma para encontrar o valor de N
 print("Digite o número N (valor cuja soma deve ser encontrada:")
@@ -18,9 +19,10 @@ except:
     exit()
 
 #definindo qual o menor valor fornecido
+#menor = int(min(valores))
 menor = int(min(valores))
 #definir quantas vezes o menor número obtido pode ser repedido em virtude do numero n fornecido
-vezes = int(n / menor)
+vezes = abs(int(n / menor))
 #lendo o total de numeros fornecidos na lista (vetor)
 total = int(len(valores))
 #criando variavel para armazenar as possibilidades de repetição dos números nos vetores
