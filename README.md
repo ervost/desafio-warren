@@ -1,32 +1,16 @@
 ## Desafios Warren Academy ##
 
-Desafios criados com linguagem Python.<br>
+>Repositório vazio - sem utilidade.
 
-Coloquei 5 arquivos, sendo assim distribuídos e seus comandos para execução:<br>
+### Retirada do processo seletivo! ###
 
-**desafio1.py**<br>
-*EXECUÇÃO* :> python desafio1.py<br>
->Arquivo simples, sem interação, basta digitar o comando que será exibido na tela o resultado<br>
+**Após as etapas iniciais resolvi retirar minha inscrição neste processo seletivo.**
 
-**desafio2.py**<br>
-*EXECUÇÃO* :> python desafio2.py<br>
->Arquivo simples, sem interação, basta digitar o comando que será exibido na tela o resultado<br>
+Minha decisão se baseia na forma como é regido o processo seletivo, especialmente pelos recrutadores de Blumenau-SC.<br>
+Com o passar dos tempos e pela minha experiência, tenho a impressão que os recrutadores (de forma geral) em Blumenau-SC são pessoas que nasceram e se criaram na cidade ou se mudaram ainda crianças e depois de adultos nunca mais se mudaram de cidade, pois nunca vi tamanho *"preconceito"* pelos moradores de outras cidades.<br>
 
-**desafio3.py**<br>
-*EXECUÇÃO* :> python desafio3.py<br>
->Arquivo simples, sem interação, basta digitar o comando que será exibido na tela o resultado<br>
+Percebo isso mais uma vez nesta seleção, já tinha até marcada a entrevista quando um dia antes a recrutadora percebeu que eu não moro em Blumenau, nesta ocasião já entrou em contato para confirmar a informação e repassar fatos importantes, como a questão de ter que residir em Blumenau após a aprovação no processo, foi neste momento que todo o meu interesse em continuar se acabou, não pelo fato de ter de me mudar, mas... enfim, desisto.<br>
 
-**desafiox2.py**<br>
-*EXECUÇÃO* :> python desafiox2.py<br>
->Ao executar o comando o sistema solicitará os dados.
->1. O número de alunos presentes (número inteiro acima de 0) (digitar e pressionar Enter)
->2. Uma lista separado por vírgula (números inteiros positivo ou negativo incluindo o 0) (Digitar e pressionar Enter)
->3. O sistema mostrará na tela o resultado (ou erro se digitado algo fora do esperado)
+Ainda muitos reclamam que Blumenau tem falta de profissionais de tecnologia, constantemente criam projetos com treinamento e contratação, acredito que o mais fácil seria mudar a seleção para alguma empresa de fora da cidade ou aceitar que em outras cidades também existem profissionais aptos e que aceitam se mudar.<br>
 
-**desafiox3.py**<br>
-*EXECUÇÃO* :> python desafiox3.py<br>
->Ao executar o comando o sistema solicitará os dados.
->1. O número N (número inteiro acima de 0) (digitar e pressionar Enter)
->2. Uma lista separado por vírgula (números inteiros positivo ou negativo incluindo o 0) (Digitar e pressionar Enter)
->3. O sistema mostrará na tela o resultado ou a inexistência de alternativa (ou erro se digitado algo fora do esperado)
-
+Boa sorte a todos!
